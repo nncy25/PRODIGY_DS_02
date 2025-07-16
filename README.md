@@ -6,9 +6,11 @@ This project explores the Titanic dataset from Kaggle to uncover insights about 
 
 ## 📁 Files Included
 
-- `Titanic_EDA.ipynb` — Jupyter notebook containing full analysis, visualizations, and insights.
-- `train.csv` — Original Titanic dataset (from Kaggle).
-- `titanic_cleaned.csv` — Cleaned dataset after preprocessing.
+File                             	Description
+titanic_EDA.ipynb          	Jupyter Notebook with data cleaning, visualization, and analysis
+dataa/titanic.csv         	Dataset file used (if uploaded)
+screenshots/	             Folder containing screenshots of visualizations
+README.md	                  Project overview and instructions
 
 ## 📊 Objectives
 
@@ -40,6 +42,11 @@ This project explores the Titanic dataset from Kaggle to uncover insights about 
 2. Open `Titanic_EDA.ipynb` in Jupyter Notebook or VSCode.
 3. Run all cells to view analysis and plots.
 4. Feel free to modify and experiment!
+
+📌 Notes
+If GitHub doesn’t render the notebook correctly, you can view it on NBViewer
+
+Alternatively, see plots in the screenshots/ folder
 
 
 
