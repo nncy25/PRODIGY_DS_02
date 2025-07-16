@@ -43,6 +43,27 @@ README.md	                  Project overview and instructions
 3. Run all cells to view analysis and plots.
 4. Feel free to modify and experiment!
 
+   ## 📊 Titanic EDA Visualizations
+
+### 1. Age Distribution
+![Age Distribution](screenshots/age%20distribution.png)
+
+### 2. Correlation Heatmap
+![Correlation Heatmap](screenshots/correlation%20heatmap.png)
+
+### 3. Fare by Class and Gender
+![Fare by Class and Gender](screenshots/fare%20by%20class%20and%20gender.png)
+
+### 4. Survival by Age
+![Survival by Age](screenshots/survival%20by%20age.png)
+
+### 5. Survival by Gender
+![Survival by Gender](screenshots/survival%20by%20gender.png)
+
+### 6. Survival by Passenger Class
+![Survival by Passenger Class](screenshots/survival%20by%20paseenger%20class.png)
+
+
 📌 Notes
 If GitHub doesn’t render the notebook correctly, you can view it on NBViewer
 
